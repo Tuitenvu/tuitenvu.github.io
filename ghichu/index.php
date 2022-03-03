@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Url trang chủ
-$base_url = 'http://localhost';
+$base_url = 'https://tuitenvu.github.io/ghichu';
 // Tiêu đề
 $tieude = 'Ghichu.tk';
 // Vô hiệu hóa caching.
